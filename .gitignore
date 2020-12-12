@@ -6,7 +6,7 @@
 
 # That God-forsaken target folder and .iml files
 */target/*
-*.iml
+**/*.iml
 
 # BlueJ files
 *.ctxt
