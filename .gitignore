@@ -5,7 +5,7 @@
 *.log
 
 # That God-forsaken target folder and .iml files
-*/target/*
+*/target/**
 **/*.iml
 
 # BlueJ files

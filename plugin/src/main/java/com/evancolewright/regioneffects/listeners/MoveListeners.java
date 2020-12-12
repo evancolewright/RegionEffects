@@ -16,6 +16,7 @@ public class MoveListeners implements Listener
     {
         this.plugin = plugin;
     }
+
     @EventHandler
     public void onMove(PlayerMoveEvent event)
     {
