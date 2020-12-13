@@ -10,7 +10,7 @@
     <version>0</version>
 
     <modules>
-        <module>plugin</module>
+        <module>core</module>
         <module>worldguard_6</module>
         <module>worldguard_7</module>
         <module>worldguard</module>

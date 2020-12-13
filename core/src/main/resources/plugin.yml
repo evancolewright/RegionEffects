@@ -5,3 +5,5 @@ depend: [ WorldGuard ]
 authors: [ evancolewright ]
 description: A plugin that grants region-specific effects to players.
 website: evancolewright.github.io
+commands:
+  re:

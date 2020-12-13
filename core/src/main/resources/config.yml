@@ -1,0 +1,28 @@
+# RegionEffect
+# v1.0
+# Official Configuration
+
+
+
+# ---------------------------
+# Effect Settings
+# ---------------------------
+
+
+# ---------------------------
+# REGIONS
+# ---------------------------
+
+regions:
+  world:  # The world name
+    spawn:  #The region name
+      effects:
+        - FLY
+    testRegion:
+      effects:
+        - FLY
+
+
+
+
+

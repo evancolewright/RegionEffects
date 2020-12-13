@@ -1,0 +1,9 @@
+name: RegionEffects
+version: 0.1
+main: com.evancolewright.regioneffects.RegionEffects
+depend: [ WorldGuard ]
+authors: [ evancolewright ]
+description: A plugin that grants region-specific effects to players.
+website: evancolewright.github.io
+commands:
+  re:

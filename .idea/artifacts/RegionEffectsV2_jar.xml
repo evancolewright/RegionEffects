@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/../../MC-TEST-SERVER/plugins</output-path>
     <root id="archive" name="RegionEffectsV2.jar">
       <element id="module-output" name="RegionEffectsV2" />
-      <element id="module-output" name="plugin" />
+      <element id="module-output" name="core" />
       <element id="module-output" name="worldguard_6" />
       <element id="module-output" name="worldguard_7" />
       <element id="module-output" name="worldguard" />
